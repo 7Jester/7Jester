@@ -11,7 +11,7 @@ xadrez, combinando **Stockfish**, extração de features com **python-chess**,
 RAG (**LangChain + FAISS**) e explicações geradas pela **API do Gemini**, 
 servida via **Flask**.
 
-☁️ Certificação **AZ-900 (Azure Fundamentals)** concluída, **AI-900** em 
+☁️ Certificação **AZ-900 (Azure Fundamentals)** em 
 andamento.
 
 📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/daniel-zuvanov-49587735a/)
