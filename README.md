@@ -1,19 +1,17 @@
-## Hi there 👋
+### Olá, sou o Daniel 👋
 
-Me chamo Daniel!
+Estudante de Sistemas de Informação (UNIRIO), construindo uma trajetória em 
+Cloud Computing e Inteligência Artificial.
 
-Atualmente estou mergulhando no mundo da tecnologia através de um bootcamp da azure ai fundamentals. Estou animado para aprender mais sobre programação e IAs.
+🔭 Atualmente sou monitor bolsista no **PET Saúde Digital**, trabalhando com 
+dashboards de saúde pública usando **Google BigQuery** e **Power BI**.
 
-🔭 Atualmente estou trabalhando em projetos do meu bootcamp, focando em construir uma base sólida em IAs.
+🤖 Desenvolvo como projeto pessoal uma aplicação de análise de partidas de 
+xadrez, combinando **Stockfish**, extração de features com **python-chess**, 
+RAG (**LangChain + FAISS**) e explicações geradas pela **API do Gemini**, 
+servida via **Flask**.
 
-🌱 Estou continuamente aprendendo e explorando novos conceitos em Linguagens: C++, HTML, css e Java.
+☁️ Certificação **AZ-900 (Azure Fundamentals)** concluída, **AI-900** em 
+andamento.
 
----
-
-#### Conecte-se comigo:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-zuvanov-49587735a/)
-
----
-
-⭐️ Obrigado por visitar meu perfil!
+📫 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/daniel-zuvanov-49587735a/)
